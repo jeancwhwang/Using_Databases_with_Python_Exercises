@@ -2,7 +2,7 @@
 	 1. Use Python to count the number of email messages per organization (e.g., the domain name of the email address) from the mbox text file.
 	 2. Create the sqlite database to maintain the counts.
 	 3. The the mbox.txt can be found here: https://www.py4e.com/code3/mbox.txt?PHPSESSID=0247e4414c5c3134ae1d5b4223d317bc
-	'''
+'''
 import sqlite3
 
 conn = sqlite3.connect('orgs.sqlite')
