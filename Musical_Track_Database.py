@@ -1,6 +1,6 @@
 ''' Learning Objectives: 
 	 1. Use Python to read an iTunes export file in XML.
-	 2. Create the sqlite database to build a set of tables, including Artist, Genre, Album, and Track.
+	 2. Create a sqlite database to build a set of tables, including Artist, Genre, Album, and Track.
 '''
 
 import xml.etree.ElementTree as ET
