@@ -1,6 +1,6 @@
 ''' Learning Objectives: 
     1. Use Python to read "roster data" in JSON format and parse the file.
-    2.  Create the sqlite database to build a set of tables that contains a User, Course, and Member table and populate the tables from the data file..
+    2. Create a sqlite database to build a set of tables that contains a User, Course, and Member table and populate the tables from the data file..
 '''
 
 import json
